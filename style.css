@@ -1,0 +1,214 @@
+.heading
+{
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px #542edc;
+  font-size: 25px !important;
+  font-weight: bolder;
+  font-family:'Courier New', Courier, monospace
+  
+}
+.heading_div
+{
+  background: white ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px #542edc;
+  width: 25%;
+}
+.heading_div2
+{
+  font-size: 20px ;
+  font-weight: bolder;
+  
+}
+.heading_div3
+{
+  background: rgb(30, 135, 239);
+  border-radius: 20px;
+  color:black;
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight: bolder;
+  width: 80%
+}
+.heading_div4
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div5
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div6
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div7
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div8
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div9
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div10
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div11
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div12
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div13
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div14
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div15
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div16
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div17
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div18
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div19
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div20
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div21
+{
+  font-size: 15px;
+  font-weight: bolder;
+}
+.heading_div22
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.heading_div23
+{
+  background: rgb(255, 255, 255);
+  border-radius:20px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 5px #542edc;
+  font-size: 15px;
+  font-weight:bolder;
+  width: 80%
+}
+.result_para_tag
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+}
+body
+{
+background-image: url("background.jpg");
+}
+.copy_right_footer
+{
+background-color: lightblue;
+padding: 8px;
+text-align: center;
+bottom: 0;
+position: fixed; 
+width: 79%;
+}
+
+canvas
+{
+  border-radius: 10%;
+  border: 10px solid lightskyblue;
+  background-color: white;
+}
